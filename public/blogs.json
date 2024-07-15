@@ -1,0 +1,103 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/vhfWyts/gal8.png",
+      "title": "The Mystery of the Forgotten Island",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-01",
+      "reading_time": 5,
+      "hashtags": ["#mystery", "#adventure", "#island"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/vhrpK2H/gal6.jpg",
+      "title": "A Journey Through Time",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-02",
+      "reading_time": 7,
+      "hashtags": ["#time", "#journey", "#sciencefiction"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/6rN0RqF/gal5.jpg",
+      "title": "The Art of Cooking",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-03",
+      "reading_time": 4,
+      "hashtags": ["#cooking", "#art", "#recipe"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/vhfWyts/gal8.png",
+      "title": "Exploring the Universe",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-04",
+      "reading_time": 6,
+      "hashtags": ["#universe", "#space", "#exploration"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/6rN0RqF/gal5.jpg",
+      "title": "The Secret Garden",
+      "author": "Laura Davis",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-05",
+      "reading_time": 5,
+      "hashtags": ["#garden", "#secret", "#nature"]
+    },
+    {
+      "id": "6",
+      "cover": "https://i.ibb.co/vhfWyts/gal8.png",
+      "title": "Tales of the Ancient World",
+      "author": "Robert Wilson",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-06",
+      "reading_time": 8,
+      "hashtags": ["#ancient", "#history", "#tales"]
+    },
+    {
+      "id": "7",
+      "cover": "https://i.ibb.co/vhfWyts/gal8.png",
+      "title": "The Wonders of Technology",
+      "author": "Sarah Miller",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-07",
+      "reading_time": 6,
+      "hashtags": ["#technology", "#innovation", "#future"]
+    },
+    {
+      "id": "8",
+      "cover": "https://i.ibb.co/vhrpK2H/gal6.jpg",
+      "title": "Adventures in the Wild",
+      "author": "James Anderson",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-08",
+      "reading_time": 7,
+      "hashtags": ["#adventure", "#wildlife", "#nature"]
+    },
+    {
+      "id": "9",
+      "cover": "https://i.ibb.co/vhfWyts/gal8.png",
+      "title": "The World of Art",
+      "author": "Patricia Martinez",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-09",
+      "reading_time": 5,
+      "hashtags": ["#art", "#culture", "#creativity"]
+    },
+    {
+      "id": "10",
+      "cover": "https://i.ibb.co/6rN0RqF/gal5.jpg",
+      "title": "Innovations in Medicine",
+      "author": "David Lee",
+      "author_img": "https://i.ibb.co/VV4GSj6/150.jpg",
+      "post_date": "2024-07-10",
+      "reading_time": 6,
+      "hashtags": ["#medicine", "#innovation", "#health"]
+    }
+  ]
+  
