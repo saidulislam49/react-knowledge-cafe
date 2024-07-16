@@ -11,17 +11,17 @@ const Blogs = ({handdleBookmarks}) => {
     },[])
     
     return (
-        <div className="md:w-2/3">            
-            <div>
-                {
-                    blogs.map(blog => <Blog 
-                        key={blog.id} 
-                        blog={blog}
-                        handdleBookmarks={handdleBookmarks}
-                        ></Blog>)
-                }
-            </div>
+      <div className="md:w-2/3">
+        <div>
+          {blogs.map((blog) => (
+            <Blog
+              key={blog.id}
+              blog={blog}
+              handdleBookmarks={handdleBookmarks}
+            ></Blog>
+          ))}
         </div>
+      </div>
     );
 };
 
