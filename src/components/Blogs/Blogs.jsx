@@ -1,8 +1,9 @@
+import PropTypes from "prop-types";
 import { useEffect } from "react";
 import { useState } from "react";
 import Blog from "../Blog/Blog";
 
-const Blogs = ({handdleBookmarks}) => {
+const Blogs = ({handdleBookmarks,handleMarkAsRead}) => {
     const [blogs, setBlogs] = useState([]);
     useEffect(()=>{
         fetch('blogs.json')
@@ -18,6 +19,7 @@ const Blogs = ({handdleBookmarks}) => {
               key={blog.id}
               blog={blog}
               handdleBookmarks={handdleBookmarks}
+              handleMarkAsRead={handleMarkAsRead}
             ></Blog>
           ))}
         </div>
@@ -25,4 +27,8 @@ const Blogs = ({handdleBookmarks}) => {
     );
 };
 
+Blogs.propTypes = { 
+  handdleBookmarks: PropTypes.func.isRequired,
+  handleMarkAsRead: PropTypes.func,
+};
 export default Blogs;

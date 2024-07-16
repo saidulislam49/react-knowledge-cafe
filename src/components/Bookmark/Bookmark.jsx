@@ -1,8 +1,8 @@
 function Bookmark({ bookmark }) {
   const { title } = bookmark;
   return (
-    <div className="bg-slate-400">
-      <h2 className="text-2xl">{title}</h2>
+    <div className="bg-white p-5 rounded-lg mb-4">
+      <h2 className="text-[18px]">{title}</h2>
     </div>
   );
 }
