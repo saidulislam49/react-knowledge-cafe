@@ -1,3 +1,5 @@
+import PropTypes from "prop-types";
+
 function Bookmark({ bookmark }) {
   const { title } = bookmark;
   return (
@@ -7,4 +9,7 @@ function Bookmark({ bookmark }) {
   );
 }
 
+Bookmark.proptypes = {
+  bookmark: PropTypes.object.isRequired,
+}
 export default Bookmark;
